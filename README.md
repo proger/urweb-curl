@@ -1,1 +1,1 @@
-An Ur/Web library for talking to popular Web services (e.g., for authentication)
+Curl-only portion of [urweb/world](https://github.com/urweb/world).
